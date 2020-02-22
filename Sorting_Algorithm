@@ -11,3 +11,4 @@ public static void insertionSort(int[] array) {
         array[j+1] = current;
     }
 }
+//edited
